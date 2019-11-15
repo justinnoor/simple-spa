@@ -1,0 +1,22 @@
+let contact = `
+<div class="contact">
+
+<div class="w3-row-padding">
+<div class="w3-col m4"></div>
+<div class="w3-card-2 w3-col m4 w3-round w3-center">
+<div><h5>Contact form</h5></div>
+<form>
+  <label>Username</label>
+  <input class="w3-input w3-round w3-border" type="text">
+  <label>Email</label>
+  <input class="w3-input w3-round w3-border" type="text">
+  <label>Message</label>
+  <input class="w3-input w3-round w3-border" type="text">
+  </br>
+  <button class="w3-btn w3-round w3-blue-grey">Submit</button>
+</form>
+</div>
+</div>
+</div>
+
+</div>`;
